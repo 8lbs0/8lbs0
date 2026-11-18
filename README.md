@@ -1,6 +1,6 @@
 ## Hi I'm Logan Baker
-## I'm a third-year Computer Engineering student at SDSU
-## 🫧 I'm currently working on AUV Motor and Peripheral Control
+## I'm a fourth-year Computer Engineering student at SDSU
+## 🫧 I put robots in water (and in the sky now apparently)
 
 <!--
 **8lbs0/8lbs0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
